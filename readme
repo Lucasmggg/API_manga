@@ -1,0 +1,36 @@
+El siguiente código es una implementación de una API REST básica usando Flask y Firebase Realtime Database.
+La API permite realizar operaciones CRUD (Crear, Leer, Actualizar y Borrar) en una lista de "Mangas" (Por si acaso un manga es
+un comic pero japonés) 
+Los Mangas se almacenan en una base de datos en tiempo real de Firebase y se pueden acceder a través de las rutas API definidas.
+
+El código comienza importando las bibliotecas necesarias: Flask, jsonify, request, firebase_admin y sus dependencias credentials y db.
+
+Luego se inicializa una instancia de la aplicación Flask y se configura una instancia de Firebase usando un archivo de clave JSON.
+Se crea una referencia a la lista de "Mangas" en la base de datos de Firebase.
+
+La API define cuatro rutas:
+
+/mangas (Método: GET): esta ruta devuelve todos los Mangas almacenados en la base de datos en forma de JSON.
+
+/get-manga/<title> (Método: GET): esta ruta devuelve un Manga específico por su título. El título se pasa como un
+parámetro de ruta y se usa para buscar en la lista de Mangas en la base de datos. Si se encuentra un Manga con ese título, 
+se devuelve en formato JSON.
+
+/new-manga (Método: POST): esta ruta permite agregar un nuevo Manga a la lista en la base de datos. 
+El Manga se pasa como un objeto JSON en el cuerpo de la solicitud POST. La API crea una nueva referencia en la lista de Mangas 
+y establece los datos del nuevo Manga en esa referencia.
+
+/delete-manga/<title> (Método: DELETE): esta ruta permite eliminar un Manga de la lista en la base de datos. 
+El título se pasa como un parámetro de ruta y se usa para buscar el Manga en la lista de Mangas. Si se encuentra el Manga, 
+se elimina de la lista.
+
+/update-manga-score/<title> (Método: PATCH): esta ruta permite actualizar la información de la valoración de un Manga. 
+El título se pasa como un parámetro de ruta y se usa para buscar el Manga en la lista de Mangas. La nueva valoración se 
+pasa como un objeto JSON en el cuerpo de la solicitud PATCH. Si se encuentra el Manga, se actualiza su valoración y se 
+devuelve en formato JSON.
+
+La API también define dos rutas para manejar errores (404 y 400) y devuelve mensajes de error en formato JSON.
+
+En resumen, este código implementa una API REST simple usando Flask y Firebase Realtime Database que permite 
+realizar operaciones CRUD en una lista de Mangas. Las rutas API definidas son /mangas, /get-manga/<title>, /new-manga, 
+/delete-manga/<title> y /update-manga-score/<title>.

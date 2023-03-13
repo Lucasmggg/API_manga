@@ -1,0 +1,444 @@
+{
+    "Mangas": [
+{
+    "titulo": "Berserk",
+    "escrito_por": "Kentaro Miura",
+    "dibujado_por": "Kentaro Miura",
+    "genero": ["Acción", "Fantasía", "Horror"],
+    "anio_publicacion": 1989,
+    "sinopsis": "Berserk sigue la historia de Guts, un guerrero solitario en busca de venganza contra su antiguo amigo Griffith, quien lo traicionó y sacrificó a su banda de mercenarios en un ritual demoníaco.",
+    "num_tomos": 40,
+    "valoracion": 9.0
+},
+{
+    "titulo": "JoJo no Kimyou na Bouken Part 7: Steel Ball Run",
+    "escrito_por": "Hirohiko Araki",
+    "dibujado_por": "Hirohiko Araki",
+    "genero": ["Acción", "Aventura", "Fantasía"],
+    "anio_publicacion": 2004,
+    "sinopsis": "La séptima parte de la serie JoJo's Bizarre Adventure sigue a Johnny Joestar, un jinete de carreras parapléjico, y Gyro Zeppeli, un jinete de carreras italiano, en su carrera a través de los Estados Unidos para ganar el Steel Ball Run, una carrera a caballo de 6,000 millas.",
+    "num_tomos": 24,
+    "valoracion": 9.0
+},
+{
+    "titulo": "Vagabond",
+    "escrito_por": "Takehiko Inoue",
+    "dibujado_por": "Takehiko Inoue",
+    "genero": ["Acción", "Aventura", "Drama", "Histórico"],
+    "anio_publicacion": 1998,
+    "sinopsis": "Vagabond sigue la vida de Musashi Miyamoto, uno de los espadachines más famosos de la historia de Japón, mientras busca la iluminación y la perfección en su arte.",
+    "num_tomos": 37,
+    "valoracion": 9.0
+},
+{
+    "titulo": "One Piece",
+    "escrito_por": "Eiichiro Oda",
+    "dibujado_por": "Eiichiro Oda",
+    "genero": ["Acción", "Aventura", "Comedia", "Fantasía"],
+    "anio_publicacion": 1997,
+    "sinopsis": "One Piece sigue las aventuras de Monkey D. Luffy, un joven pirata con poderes elásticos, mientras busca el tesoro más grande del mundo, conocido como el 'One Piece', y se enfrenta a peligrosos piratas y marines en el camino.",
+    "num_tomos": 100,
+    "valoracion": 8.7
+},
+{
+    "titulo": "Monster",
+    "escrito_por": "Naoki Urasawa",
+    "dibujado_por": "Naoki Urasawa",
+    "genero": ["Drama", "Misterio", "Psicológico", "Thriller"],
+    "anio_publicacion": 1994,
+    "sinopsis": "El Dr. Kenzou Tenma es un brillante neurocirujano en la ciudad de Düsseldorf, Alemania. Pero un día, tiene que tomar una decisión que cambiará su vida para siempre: salvar la vida de un niño o el alcalde de la ciudad, quien llegó primero al hospital. Tenma salva al niño y el alcalde muere. A partir de ese momento, extrañas muertes comienzan a suceder y Tenma se encuentra en medio de un misterio que lo lleva a buscar al asesino en serie conocido como 'Johan'.",
+    "num_tomos": 18,
+    "valoracion": 8.77
+},
+{
+    "titulo": "Slam Dunk",
+    "escrito_por": "Takehiko Inoue",
+    "dibujado_por": "Takehiko Inoue",
+    "genero": ["Deportes", "Comedia", "Drama"],
+    "anio_publicacion": 1990,
+    "sinopsis": "Slam Dunk sigue la historia de Hanamichi Sakuragi, un delincuente juvenil que se une al equipo de baloncesto de su escuela en un intento por impresionar a una chica. A pesar de no tener experiencia en el deporte, Sakuragi comienza a enamorarse del baloncesto y trabaja duro para mejorar su juego.",
+    "num_tomos": 31,
+    "valoracion": 8.8
+},
+{
+    "titulo": "Fullmetal Alchemist",
+    "escrito_por": "Hiromu Arakawa",
+    "dibujado_por": "Hiromu Arakawa",
+    "genero": ["Acción", "Aventura", "Fantasía", "Drama"],
+    "anio_publicacion": 2001,
+    "sinopsis": "En un mundo donde la alquimia es una de las técnicas científicas más avanzadas conocidas por el hombre, los hermanos Edward y Alphonse Elric intentan revivir a su madre fallecida a través de la alquimia humana. Sin embargo, su intento falla y como consecuencia, Edward pierde su brazo derecho y su pierna izquierda mientras que Alphonse pierde su cuerpo entero. Ahora, los hermanos Elric buscan la Piedra Filosofal, una reliquia legendaria que les permitirá recuperar sus cuerpos.",
+    "num_tomos": 27,
+    "valoracion": 9.1
+},
+{
+    "titulo": "Grand Blue",
+    "escrito_por": "Kenji Inoue",
+    "dibujado_por": "Kimitake Yoshioka",
+    "genero": ["Comedia", "Slice of Life"],
+    "anio_publicacion": 2014,
+    "sinopsis": "Iori Kitahara se une a la universidad de Izu buscando una vida universitaria emocionante. Sin embargo, su vida universitaria da un giro inesperado cuando descubre que su tío y sus amigos tienen una tienda de buceo. Pronto, Iori se ve inmerso en el mundo del buceo y la vida universitaria loca y caótica de sus nuevos amigos.",
+    "num_tomos": 16,
+    "valoracion": 8.5
+},
+{
+    "titulo": "Vinland Saga",
+    "escrito_por": "Makoto Yukimura",
+    "dibujado_por": "Makoto Yukimura",
+    "genero": ["Acción", "Aventura", "Drama", "Histórico"],
+    "anio_publicacion": 2005,
+    "sinopsis": "Thorfinn es un joven vikingo que se une a un grupo de mercenarios con la esperanza de vengar a su padre, un guerrero vikingo que fue asesinado por un hombre llamado Askeladd. A medida que Thorfinn lucha junto a los mercenarios y aprende más sobre el mundo más allá de su hogar en Islandia, comienza a cuestionar sus motivos y su sed de venganza.",
+    "num_tomos": 25,
+    "valoracion": 8.8
+},
+{
+    "titulo": "Oyasumi Punpun",
+    "escrito_por": "Inio Asano",
+    "dibujado_por": "Inio Asano",
+    "genero": ["Drama", "Romance", "Psicológico"],
+    "anio_publicacion": 2007,
+    "sinopsis": "La historia sigue a Punpun, un joven cuyo padre abusivo lo lleva a tener una visión distorsionada del mundo. A medida que Punpun crece y se enfrenta a las complejidades de la vida y del amor, su visión del mundo se vuelve más oscura y pesimista.",
+    "num_tomos": 13,
+    "valoracion": 9.2
+},
+{
+    "titulo": "Kingdom",
+    "escrito_por": "Yasuhisa Hara",
+    "dibujado_por": "Yasuhisa Hara",
+    "genero": ["Acción", "Historia", "Drama"],
+    "anio_publicacion": 2006,
+    "sinopsis": "La historia sigue a Xin, un niño huérfano que sueña con convertirse en el mejor general del mundo. A medida que crece, Xin se une a un joven llamado Piao, y juntos se embarcan en un viaje para convertirse en los mejores guerreros de China. Sin embargo, su amistad se pone a prueba cuando Piao es asesinado y Xin decide continuar su sueño de convertirse en general en honor a su amigo fallecido.",
+    "num_tomos": 68,
+    "valoracion": 8.7
+},
+{
+    "titulo": "Houseki no Kuni",
+    "escrito_por": "Haruko Ichikawa",
+    "dibujado_por": "Haruko Ichikawa",
+    "genero": ["Acción", "Fantasía", "Misterio"],
+    "anio_publicacion": 2012,
+    "sinopsis": "En un futuro lejano, una nueva forma de vida llamada Gems habita en la Tierra. Cada Gem es un mineral precioso con una habilidad única, y trabajan juntos para proteger su hogar de los seres misteriosos conocidos como Lunarians. La historia sigue a Phos, una joven Gem que se siente inútil debido a su bajo nivel de dureza y trabaja para encontrar su lugar en la comunidad de Gems mientras lucha contra los Lunarians.",
+    "num_tomos": 11,
+    "valoracion": 8.3
+},
+{
+    "titulo": "20th Century Boys",
+    "escrito_por": "Naoki Urasawa",
+    "dibujado_por": "Naoki Urasawa",
+    "genero": ["Ciencia ficción", "Misterio", "Drama"],
+    "anio_publicacion": 1999,
+    "sinopsis": "La historia sigue a un grupo de amigos de la infancia que se reúnen para combatir una conspiración que amenaza con destruir el mundo. La conspiración está dirigida por un hombre misterioso conocido como 'Amigo', que parece conocer los secretos más profundos de los amigos y ha estado influyendo en sus vidas desde su infancia.",
+    "num_tomos": 22,
+    "valoracion": 8.9
+},
+{
+    "titulo": "Ashita no Joe",
+    "escrito_por": "Asao Takamori",
+    "dibujado_por": "Tetsuya Chiba",
+    "genero": ["Acción", "Drama", "Deportes"],
+    "anio_publicacion": 1968,
+    "sinopsis": "La historia sigue a Joe Yabuki, un delincuente juvenil que es enviado a un reformatorio después de meterse en problemas con la ley. Allí descubre su talento para el boxeo y comienza a entrenar para convertirse en un campeón. La serie sigue su ascenso en el mundo del boxeo, así como sus luchas personales y emocionales.",
+    "num_tomos": 20,
+    "valoracion": 8.4
+},
+{
+    "titulo": "Monogatari Series: First Season",
+    "escrito_por": "Nisio Isin",
+    "dibujado_por": "Varios artistas",
+    "genero": ["Comedia", "Drama", "Misterio", "Sobrenatural"],
+    "anio_publicacion": 2006,
+    "sinopsis": "La serie sigue a Koyomi Araragi, un estudiante de secundaria que se encuentra involucrado en una serie de eventos sobrenaturales después de haber sido mordido por un vampiro. Con la ayuda de Meme Oshino, un experto en lo sobrenatural, y las chicas que encuentra en su camino, Koyomi debe enfrentar diferentes entidades sobrenaturales y resolver sus problemas.",
+    "num_tomos": 4,
+    "valoracion": 8.1
+},
+{
+    "titulo": "Real",
+    "escrito_por": "Takehiko Inoue",
+    "dibujado_por": "Takehiko Inoue",
+    "genero": ["Deportes", "Drama"],
+    "anio_publicacion": 1999,
+    "sinopsis": "La serie sigue a tres personajes que luchan con lesiones y discapacidades físicas: Tomomi Nomiya, un jugador de baloncesto que perdió su pierna en un accidente de tráfico; Hisanobu Takahashi, un corredor de atletismo que quedó paralítico después de un accidente; y Kiyoharu Togawa, un jugador de baloncesto de secundaria que sufre de una enfermedad degenerativa de la rodilla. La serie explora cómo estos personajes lidian con sus discapacidades y luchan por superarlas.",
+    "num_tomos": 14,
+    "valoracion": 8.3
+},
+{
+    "titulo": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+    "escrito_por": "Aka Akasaka",
+    "dibujado_por": "Aka Akasaka",
+    "genero": ["Comedia", "Romance", "Escolar"],
+    "anio_publicacion": 2015,
+    "sinopsis": "La serie sigue a Miyuki Shirogane y Kaguya Shinomiya, dos estudiantes del prestigioso instituto privado Shuchiin que se han enamorado el uno del otro. Sin embargo, ambos son demasiado orgullosos para admitir sus sentimientos y, en su lugar, traman estrategias elaboradas para intentar hacer que el otro se confiese primero.",
+    "num_tomos": 24,
+    "valoracion": 8.4
+},
+{
+    "titulo": "Monogatari Series",
+    "escrito_por": "NisiOisiN",
+    "dibujado_por": "Varios",
+    "genero": ["Sobrenatural", "Misterio"],
+    "anio_publicacion": 2006,
+    "sinopsis": "La serie sigue a Koyomi Araragi, un estudiante de tercer año de secundaria que ha sido mordido por un vampiro. A partir de entonces, se ve involucrado en varios casos sobrenaturales que afectan a sus compañeros de clase y amigos, y se dedica a ayudarlos a resolver sus problemas.",
+    "num_tomos": 25,
+    "valoracion": 8.3
+},
+{
+    "titulo": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+    "escrito_por": "Shunsaku Tomose",
+    "dibujado_por": "Kinugasa Shougo",
+    "genero": ["Drama", "Escolar"],
+    "anio_publicacion": 2015,
+    "sinopsis": "La serie sigue a Kiyotaka Ayanokouji, un estudiante de primer año de la Academia Privada Tokyo Koudo Ikusei que utiliza sus habilidades únicas para navegar por la escuela altamente competitiva y de élite. Con el fin de sobrevivir en este entorno implacable, debe hacer uso de su inteligencia y astucia para derrotar a sus rivales y alcanzar la cima.",
+    "num_tomos": 9,
+    "valoracion": 7.8
+},
+{
+    "titulo": "Mikkakan no Koufuku",
+    "escrito_por": "Shunju Aono",
+    "dibujado_por": "Shunju Aono",
+    "genero": ["Drama", "Recuentos de la vida"],
+    "anio_publicacion": 2015,
+    "sinopsis": "La serie sigue a un hombre que sufre de depresión y decide suicidarse en tres días. Durante ese tiempo, se encuentra con varias personas que le hacen reconsiderar su decisión y encontrar algo por lo que vale la pena vivir.",
+    "num_tomos": 2,
+    "valoracion": 8.0
+},
+{
+    "titulo": "Great Teacher Onizuka",
+    "escrito_por": "Tohru Fujisawa",
+    "dibujado_por": "Tohru Fujisawa",
+    "genero": ["Comedia", "Drama"],
+    "anio_publicacion": 1997,
+    "sinopsis": "Eikichi Onizuka, un joven ex-delincuente y miembro de una banda de motociclistas, decide convertirse en maestro con la esperanza de ligar con las estudiantes. Sin embargo, sus métodos poco ortodoxos y su actitud rebelde hacen que sus estudiantes lo respeten y lo admiren, convirtiéndose en un gran maestro que busca ayudar a sus alumnos a superar sus problemas personales.",
+    "num_tomos": 25,
+    "valoracion": 8.6
+},
+{
+    "titulo": "A Silent Voice",
+    "escrito_por": "Yoshitoki Oima",
+    "dibujado_por": "Yoshitoki Oima",
+    "genero": ["Drama", "Romance"],
+    "anio_publicacion": 2013,
+    "sinopsis": "Shoya Ishida es un joven que de niño acosó a una compañera de clase sorda llamada Shoko Nishimiya, lo que provocó que ella cambiara de escuela. Años después, arrepentido por su comportamiento pasado, Shoya busca la redención y la amistad de Shoko.",
+    "num_tomos": 7,
+    "valoracion": 9.0
+},
+{
+    "titulo": "Haikyuu!!",
+    "escrito_por": "Haruichi Furudate",
+    "dibujado_por": "Haruichi Furudate",
+    "genero": ["Deportes", "Comedia"],
+    "anio_publicacion": 2012,
+    "sinopsis": "La serie sigue a Shoyo Hinata, un estudiante de secundaria que quiere convertirse en jugador de voleibol. A pesar de su corta estatura, Hinata es un jugador talentoso que se une al equipo de voleibol de su escuela. La serie sigue las aventuras del equipo mientras compiten en torneos y trabajan juntos para alcanzar su objetivo de convertirse en campeones nacionales.",
+    "num_tomos": 45,
+    "valoracion": 8.6
+},
+{
+    "titulo": "Kaguya-sama: Love is War",
+    "escrito_por": "Aka Akasaka",
+    "dibujado_por": "Aka Akasaka",
+    "genero": ["Comedia", "Romance"],
+    "anio_publicacion": 2015,
+    "sinopsis": "Kaguya Shinomiya y Miyuki Shirogane son los estudiantes más brillantes de la Academia Shuchiin. A pesar de su inteligencia y atractivo, ambos son extremadamente orgullosos y se niegan a admitir sus sentimientos románticos el uno por el otro, lo que lleva a una batalla de ingenio y estrategia para hacer que el otro confiese primero.",
+    "num_tomos": 23,
+    "valoracion": 8.6
+},
+{
+    "titulo": "Monogatari Series",
+    "escrito_por": "NisiOisiN",
+    "dibujado_por": "Varios",
+    "genero": ["Misterio", "Sobrenatural", "Comedia"],
+    "anio_publicacion": 2005,
+    "sinopsis": "La serie sigue la vida de Koyomi Araragi, un estudiante de secundaria que se convierte en vampiro después de un encuentro con un extraño ser. Con la ayuda de varias chicas sobrenaturales, Araragi se dedica a resolver misterios y ayudar a aquellos que necesitan su ayuda.",
+    "num_tomos": "?",
+    "valoracion": 8.3
+},
+{
+    "titulo": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+    "escrito_por": "Shunsaku Tomose",
+    "dibujado_por": "Kinugasa Shougo",
+    "genero": ["Drama", "Misterio", "Psicológico", "Romance", "Escolar"],
+    "anio_publicacion": 2015,
+    "sinopsis": "La historia sigue a Kiyotaka Ayanokouji, un estudiante de la Academia Privada de Preparación de Tokio, una prestigiosa escuela secundaria donde los estudiantes son clasificados en cuatro clases en función de sus calificaciones. Con la ayuda de su compañera de clase Suzune Horikita, Ayanokouji trata de subir de nivel en la jerarquía escolar y descubrir los secretos oscuros que se esconden detrás de la fachada de la academia.",
+    "num_tomos": "?",
+    "valoracion": 7.7
+},
+{
+    "titulo": "Mikkakan no Koufuku",
+    "escrito_por": "George Asakura",
+    "dibujado_por": "George Asakura",
+    "genero": ["Drama", "Romance", "Recuentos de la vida"],
+    "anio_publicacion": 2011,
+    "sinopsis": "La historia sigue a Tsubaki, una joven soltera que vive en Tokio. Un día, Tsubaki se encuentra con un hombre llamado Tokio, y juntos exploran la ciudad y disfrutan de la vida nocturna de Tokio. A medida que su relación se profundiza, Tsubaki comienza a darse cuenta de que tiene sentimientos por Tokio.",
+    "num_tomos": "?",
+    "valoracion": 7.4
+},
+{
+    "titulo": "GTO: Great Teacher Onizuka",
+    "escrito_por": "Tohru Fujisawa",
+    "dibujado_por": "Tohru Fujisawa",
+    "genero": ["Comedia", "Drama", "Escolar", "Recuentos de la vida"],
+    "anio_publicacion": 1997,
+    "sinopsis": "Eikichi Onizuka es un joven ex pandillero y líder de una banda de motociclistas que decide convertirse en maestro para conquistar a una chica de secundaria. Sin embargo, descubre que ser maestro es más difícil de lo que pensaba, y se da cuenta de que quiere hacer una diferencia en la vida de sus estudiantes problemáticos.",
+    "num_tomos": 25,
+    "valoracion": 8.6
+},
+{
+    "titulo": "Koe no Katachi",
+    "escrito_por": "Yoshitoki Oima",
+    "dibujado_por": "Yoshitoki Oima",
+    "genero": ["Drama", "Escolar", "Shounen", "Recuentos de la vida"],
+    "anio_publicacion": 2013,
+    "sinopsis": "Shoya Ishida, un joven que en el pasado acosó a una compañera de clase llamada Shoko Nishimiya, busca la redención y la reconciliación con ella años después. La historia muestra la lucha de Shoya por reparar su relación con Shoko, así como su propio crecimiento personal.",
+    "num_tomos": 7,
+    "valoracion": 9.07
+},
+{
+    "titulo": "Haikyuu!!",
+    "escrito_por": "Haruichi Furudate",
+    "dibujado_por": "Haruichi Furudate",
+    "genero": ["Comedia", "Drama", "Escolar", "Shounen", "Deportes"],
+    "anio_publicacion": 2012,
+    "sinopsis": "Shoyo Hinata, quien tiene una pasión por el voleibol, forma un equipo de voleibol en su escuela secundaria para competir en un torneo nacional contra el equipo de Tobio Kageyama, su rival y compañero de equipo de la escuela primaria. A medida que se preparan para el torneo, Hinata y Kageyama deben superar sus diferencias y trabajar juntos para alcanzar la victoria.",
+    "num_tomos": 45,
+    "valoracion": 8.67
+},
+{
+    "titulo": "Re:Zero",
+    "escrito_por": "Tappei Nagatsuki",
+    "dibujado_por": "Shinichirou Otsuka",
+    "genero": ["Acción", "Drama", "Fantasía", "Psicológico", "Thriller"],
+    "anio_publicacion": 2014,
+    "sinopsis": "Subaru Natsuki, un joven que es transportado a un mundo de fantasía, adquiere la capacidad de rebobinar el tiempo cuando muere. A medida que se ve envuelto en una serie de eventos peligrosos, Subaru debe usar su habilidad para resolver los misterios que rodean al mundo en el que se encuentra y proteger a las personas que ha conocido allí.",
+    "num_tomos": "?",
+    "valoracion": 8.16
+},
+{
+    "titulo": "Nana",
+    "escrito_por": "Ai Yazawa",
+    "dibujado_por": "Ai Yazawa",
+    "genero": ["Drama", "Romance", "Música"],
+    "anio_publicacion": 2000,
+    "sinopsis": "La historia sigue la vida de dos chicas jóvenes, ambas llamadas Nana, que se encuentran en un tren a Tokio. A pesar de tener personalidades diferentes, las dos se hacen amigas y se apoyan mutuamente mientras persiguen sus sueños y lidian con el amor y las relaciones complicadas.",
+    "num_tomos": 21,
+    "valoracion": 8.50
+},
+{
+    "titulo": "Made in Abyss",
+    "escrito_por": "Akihito Tsukushi",
+    "dibujado_por": "Akihito Tsukushi",
+    "genero": ["Acción", "Aventura", "Fantasía", "Misterio"],
+    "anio_publicacion": 2012,
+    "sinopsis": "La historia sigue a una joven llamada Riko, que sueña con convertirse en una exploradora de las profundidades del Abismo, un enorme sistema de cuevas y cañones que alberga extrañas formas de vida y reliquias antiguas. Cuando Riko encuentra a un robot con forma humana llamado Reg, los dos se embarcan en una aventura peligrosa para descubrir los secretos del Abismo y encontrar a la madre de Riko, una legendaria exploradora que desapareció en las profundidades del Abismo hace muchos años.",
+    "num_tomos": "?",
+    "valoracion": 8.68
+},
+{
+    "titulo": "Chainsaw Man",
+    "escrito_por": "Tatsuki Fujimoto",
+    "dibujado_por": "Tatsuki Fujimoto",
+    "genero": ["Acción", "Horror", "Comedia"],
+    "anio_publicacion": 2018,
+    "sinopsis": "La historia sigue a Denji, un joven que vive endeudado y se gana la vida cazando demonios con su mascota demoníaca Chainsaw Dog. Tras un evento traumático, Denji se convierte en un híbrido entre humano y Chainsaw Devil, y es reclutado por una organización gubernamental que se dedica a cazar demonios. Con su nueva forma, Denji tendrá que enfrentarse a todo tipo de amenazas sobrenaturales mientras intenta salvar a su amiga y a sí mismo.",
+    "num_tomos": "?",
+    "valoracion": 8.34
+},
+{
+    "titulo": "One Punch-Man",
+    "escrito_por": "One",
+    "dibujado_por": "Yusuke Murata",
+    "genero": ["Acción", "Comedia", "Ciencia ficción"],
+    "anio_publicacion": 2009,
+    "sinopsis": "La serie sigue a Saitama, un héroe capaz de derrotar a cualquier enemigo de un solo puñetazo, lo que le lleva a sentirse aburrido al no encontrar a nadie que pueda plantarle cara. Mientras tanto, otros héroes luchan por la fama y la popularidad, pero Saitama sólo quiere ser reconocido como un héroe y ayudar a la gente.",
+    "num_tomos": 23,
+    "valoracion": 8.76
+},
+{
+    "titulo": "Hunter x Hunter",
+    "escrito_por": "Yoshihiro Togashi",
+    "dibujado_por": "Yoshihiro Togashi",
+    "genero": ["Acción", "Aventura", "Fantasía"],
+    "anio_publicacion": 1998,
+    "sinopsis": "La historia sigue las aventuras de Gon Freecss, un niño de doce años que sueña con convertirse en un cazador, alguien capaz de viajar por el mundo realizando misiones y desafíos increíbles. Junto con otros aspirantes a cazadores, Gon se enfrentará a peligrosos enemigos y descubrirá oscuros secretos sobre su familia.",
+    "num_tomos": 36,
+    "valoracion": 8.87
+},
+{
+    "titulo": "Hajime no Ippo",
+    "escrito_por": "George Morikawa",
+    "dibujado_por": "George Morikawa",
+    "genero": ["Acción", "Deportes", "Comedia"],
+    "anio_publicacion": 1989,
+    "sinopsis": "Makunouchi Ippo es un joven de 17 años que trabaja en una tienda de barcos con su madre. Debido al acoso constante de sus compañeros de clase, Ippo nunca ha tenido tiempo para hacer amigos y siempre ha sido visto como un marginado. Un día, mientras es salvado de un grupo de matones por un famoso boxeador llamado Takamura, Ippo decide convertirse en un boxeador para cambiar su vida. ",
+    "num_tomos": 131,
+    "valoracion": 8.87
+},
+{
+    "titulo": "Hunter x Hunter",
+    "escrito_por": "Yoshihiro Togashi",
+    "dibujado_por": "Yoshihiro Togashi",
+    "genero": ["Acción", "Aventura", "Fantasía"],
+    "anio_publicacion": 1998,
+    "sinopsis": "Gon Freecss, un niño de 12 años, descubre que su padre, a quien se le dio por muerto, en realidad está vivo y es un cazador, una élite en el mundo del descubrimiento de tesoros, criaturas raras y otros misterios. Gon decide convertirse en un cazador para encontrar a su padre y emprende un peligroso viaje lleno de desafíos y aventuras.",
+    "num_tomos": "?",
+    "valoracion": 9.10
+},
+{
+    "titulo": "Hajime no Ippo",
+    "escrito_por": "George Morikawa",
+    "dibujado_por": "George Morikawa",
+    "genero": ["Deportes", "Acción", "Comedia"],
+    "anio_publicacion": 1989,
+    "sinopsis": "Ippo Makunouchi es un adolescente tímido y sin amigos que es constantemente intimidado por sus compañeros de clase. Un día, un boxeador local llamado Mamoru Takamura lo rescata de un grupo de matones y lo lleva al gimnasio donde entrena. Ippo queda impresionado por la disciplina y el espíritu de lucha de Takamura y decide convertirse en boxeador para cambiar su vida. A partir de ahí, Ippo comienza su carrera en el boxeo, enfrentando a oponentes cada vez más fuertes y desarrollando habilidades impresionantes en el proceso.",
+    "num_tomos": "?",
+    "valoracion": 8.99
+},
+{
+    "titulo": "Death Note",
+    "escrito_por": "Tsugumi Ohba",
+    "dibujado_por": "Takeshi Obata",
+    "genero": ["Misterio", "Thriller", "Drama", "Fantasía"],
+    "anio_publicacion": 2003,
+    "sinopsis": "Light Yagami es un estudiante prodigio que encuentra un misterioso cuaderno conocido como el Death Note. Descubre que si escribe el nombre de una persona en el cuaderno, esa persona morirá. Light se convence a sí mismo de que el Death Note es una herramienta para limpiar el mundo de criminales y se convierte en un justiciero autoproclamado, matando a aquellos que considera malvados y corruptos. Sin embargo, su cruzada atrae la atención de un detective llamado L, que está decidido a capturar al asesino en serie conocido como Kira (el seudónimo de Light).",
+    "num_tomos": 12,
+    "valoracion": 8.66
+},
+{
+    "titulo": "Akira",
+    "escrito_por": "Katsuhiro Otomo",
+    "dibujado_por": "Katsuhiro Otomo",
+    "genero": ["Acción", "Ciencia ficción", "Distopía", "Cyberpunk"],
+    "anio_publicacion": 1982,
+    "sinopsis": "En 1988, una misteriosa explosión destruye Tokio y desata la Tercera Guerra Mundial. Treinta años después, en 2019, la ciudad de Neo-Tokio ha surgido de las cenizas de la antigua Tokio. Kaneda, un líder de una banda de motociclistas rebeldes, se ve envuelto en una conspiración gubernamental relacionada con un niño llamado Tetsuo, que ha desarrollado habilidades psíquicas después de un accidente de motocicleta. La historia sigue a Kaneda mientras intenta rescatar a Tetsuo de las garras del gobierno y de su propio poder creciente.",
+    "num_tomos": 6,
+    "valoracion": 8.43
+},
+{
+    "titulo": "Banana Fish",
+    "escrito_por": "Akimi Yoshida",
+    "dibujado_por": "Akimi Yoshida",
+    "genero": ["Acción", "Drama", "Suspenso", "Shoujo"],
+    "anio_publicacion": 1985,
+    "sinopsis": "Ash Lynx, un joven líder de pandillas en Nueva York, es buscado por el misterioso científico Dino Golzine, quien desea utilizar una droga llamada Banana Fish para controlarlo. Ash se une con Eiji Okumura, un joven fotógrafo japonés, y juntos intentan descubrir los secretos detrás de Banana Fish y su conexión con el hermano mayor de Ash, Griffin, quien sirvió en la Guerra de Vietnam.",
+    "num_tomos": 19,
+    "valoracion": 8.42
+},
+{
+    "titulo": "Violet Evergarden",
+    "escrito_por": "Kana Akatsuki",
+    "dibujado_por": "Akiko Takase",
+    "genero": ["Drama", "Fantasía"],
+    "anio_publicacion": 2015,
+    "sinopsis": "En un mundo posbélico, Violet Evergarden, una chica que fue criada como arma para la guerra, busca su lugar en la sociedad trabajando como escritora de cartas para ayudar a las personas a expresar sus sentimientos. A lo largo de su trabajo, Violet descubre su propia humanidad y las emociones que alguna vez suprimió.",
+    "num_tomos": 4,
+    "valoracion": 8.57
+},
+{
+    "titulo": "Golden Kamuy",
+    "escrito_por": "Satoru Noda",
+    "dibujado_por": "Satoru Noda",
+    "genero": ["Aventura", "Acción", "Histórico"],
+    "anio_publicacion": 2014,
+    "sinopsis": "En Hokkaido, a finales del siglo XIX, el exsoldado Saichi Sugimoto se une a la joven Ainu, Asirpa, en una búsqueda para encontrar una gran cantidad de oro escondida por los criminales. Para encontrar el tesoro, deben luchar contra otros cazadores de tesoros, asesinos y Ainu rebeldes.",
+    "num_tomos": 24,
+    "valoracion": 8.23
+}
+]
+}
